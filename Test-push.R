@@ -7,3 +7,6 @@ library(palmerpenguins)
 
 #create graphic
 hist(penguins$bill_depth_mm)
+
+#create graphic
+hist(penguins$bill_length_mm)
